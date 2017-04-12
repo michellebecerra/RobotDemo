@@ -1,0 +1,587 @@
+# Auto-generated phrase file for the dragonbot
+# Generated from files: 2JyYsTIU4apa3xFVj2rAJQxQmaixhwZtv2V+/pII data phrases.yaml script.txt
+
+statement1:
+  behaviors:
+  - args: []
+    id: mischievous
+    start: 0.953
+    type: action
+  - id: AA_AH
+    start: 0.047
+    type: viseme
+  - id: AA_AH
+    start: 0.18
+    type: viseme
+  - id: IDLE
+    start: 0.55
+    type: viseme
+  - id: AO_AW
+    start: 0.943
+    type: viseme
+  - id: EH_AE_AY
+    start: 1.053
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.081
+    type: viseme
+  - id: AA_AH
+    start: 1.13
+    type: viseme
+  - id: AA_AH
+    start: 1.192
+    type: viseme
+  - id: M_B_P
+    start: 1.232
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.298
+    type: viseme
+  - id: AO_AW
+    start: 1.341
+    type: viseme
+  - id: AA_AH
+    start: 1.405
+    type: viseme
+  - id: AA_AH
+    start: 1.492
+    type: viseme
+  - id: R_ER
+    start: 1.595
+    type: viseme
+  - id: CH_SH_ZH
+    start: 1.672
+    type: viseme
+  - id: AA_AH
+    start: 1.749
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.811
+    type: viseme
+  - id: IDLE
+    start: 2.024
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.218
+    type: viseme
+  - id: AA_AH
+    start: 2.264
+    type: viseme
+  - id: M_B_P
+    start: 2.292
+    type: viseme
+  - id: AO_AW
+    start: 2.394
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.502
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.574
+    type: viseme
+  - id: AA_AH
+    start: 2.621
+    type: viseme
+  - id: AA_AH
+    start: 2.728
+    type: viseme
+  - id: R_ER
+    start: 2.819
+    type: viseme
+  - id: CH_SH_ZH
+    start: 2.883
+    type: viseme
+  - id: AA_AH
+    start: 2.951
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.997
+    type: viseme
+  - id: R_ER
+    start: 3.089
+    type: viseme
+  - id: AO_AW
+    start: 3.192
+    type: viseme
+  - id: M_B_P
+    start: 3.31
+    type: viseme
+  - id: AA_AH
+    start: 3.364
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.482
+    type: viseme
+  - id: AA_AH
+    start: 3.546
+    type: viseme
+  - id: AA_AH
+    start: 3.633
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.67
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.712
+    type: viseme
+  - id: R_ER
+    start: 3.806
+    type: viseme
+  - id: AO_AW
+    start: 3.858
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.941
+    type: viseme
+  - id: EH_AE_AY
+    start: 4.046
+    type: viseme
+  - id: IDLE
+    start: 4.251
+    type: viseme
+  file: /home/michellebecerra/kinetic_ws/sandbox/cordial-public/cordial_example/speech/data/statement1.wav
+  text: '"Hi! Welcome to cordial, the most cordial robot controller!"'
+statement2:
+  behaviors:
+  - args: []
+    id: yay
+    start: 0.45
+    type: action
+  - id: AA_AH
+    start: 0.047
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.144
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.246
+    type: viseme
+  - id: AO_AW
+    start: 0.331
+    type: viseme
+  - id: M_B_P
+    start: 0.44
+    type: viseme
+  - id: EY
+    start: 0.502
+    type: viseme
+  - id: AA_AH
+    start: 0.545
+    type: viseme
+  - id: EY
+    start: 0.695
+    type: viseme
+  - id: M_B_P
+    start: 0.806
+    type: viseme
+  - id: EY
+    start: 0.845
+    type: viseme
+  - id: EH_AE_AY
+    start: 0.925
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.001
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.132
+    type: viseme
+  - id: AA_AH
+    start: 1.232
+    type: viseme
+  - id: AA_AH
+    start: 1.379
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.452
+    type: viseme
+  - id: EY
+    start: 1.496
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.527
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.599
+    type: viseme
+  - id: AA_AH
+    start: 1.625
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.656
+    type: viseme
+  - id: AA_AH
+    start: 1.755
+    type: viseme
+  - id: R_ER
+    start: 1.88
+    type: viseme
+  - id: EY
+    start: 1.974
+    type: viseme
+  - id: M_B_P
+    start: 2.073
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.142
+    type: viseme
+  - id: IDLE
+    start: 2.322
+    type: viseme
+  file: /home/michellebecerra/kinetic_ws/sandbox/cordial-public/cordial_example/speech/data/statement2.wav
+  text: '"I''ll do  behaviors tagged in the script!"'
+statement3:
+  behaviors:
+  - args: []
+    id: lift-drop
+    start: 0.307
+    type: action
+  - id: N_NG_D_Z
+    start: 0.047
+    type: viseme
+  - id: EY
+    start: 0.08
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.195
+    type: viseme
+  - id: M_B_P
+    start: 0.297
+    type: viseme
+  - id: EH_AE_AY
+    start: 0.377
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.508
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.578
+    type: viseme
+  - id: M_B_P
+    start: 0.618
+    type: viseme
+  - id: EY
+    start: 0.678
+    type: viseme
+  - id: AO_AW
+    start: 0.838
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.892
+    type: viseme
+  - id: EH_AE_AY
+    start: 1.006
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.045
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.097
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.165
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.261
+    type: viseme
+  - id: AA_AH
+    start: 1.343
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.392
+    type: viseme
+  - id: AO_AW
+    start: 1.462
+    type: viseme
+  - id: EH_AE_AY
+    start: 1.51
+    type: viseme
+  - id: M_B_P
+    start: 1.562
+    type: viseme
+  - id: R_ER
+    start: 1.715
+    type: viseme
+  - id: EY
+    start: 1.772
+    type: viseme
+  - id: CH_SH_ZH
+    start: 1.88
+    type: viseme
+  - id: EH_AE_AY
+    start: 1.993
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.03
+    type: viseme
+  - id: EH_AE_AY
+    start: 2.072
+    type: viseme
+  - id: EY
+    start: 2.189
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.282
+    type: viseme
+  - id: AA_AH
+    start: 2.324
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.425
+    type: viseme
+  - id: IDLE
+    start: 2.582
+    type: viseme
+  file: /home/michellebecerra/kinetic_ws/sandbox/cordial-public/cordial_example/speech/data/statement3.wav
+  text: '"These first few sentences were pre-generated."'
+statement4:
+  behaviors:
+  - args:
+    - '30'
+    - '0'
+    - '0'
+    id: headpose
+    start: 0.666
+    type: action
+  - args:
+    - '0'
+    - '0'
+    - '0'
+    id: headpose
+    start: 2.5799999999999996
+    type: action
+  - id: AA_AH
+    start: 0.047
+    type: viseme
+  - id: R_ER
+    start: 0.165
+    type: viseme
+  - id: EH_AE_AY
+    start: 0.232
+    type: viseme
+  - id: AA_AH
+    start: 0.323
+    type: viseme
+  - id: AA_AH
+    start: 0.389
+    type: viseme
+  - id: M_B_P
+    start: 0.428
+    type: viseme
+  - id: EH_AE_AY
+    start: 0.513
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.573
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.615
+    type: viseme
+  - id: EY
+    start: 0.656
+    type: viseme
+  - id: AO_AW
+    start: 0.709
+    type: viseme
+  - id: AA_AH
+    start: 0.756
+    type: viseme
+  - id: EY
+    start: 0.831
+    type: viseme
+  - id: M_B_P
+    start: 0.912
+    type: viseme
+  - id: M_B_P
+    start: 0.954
+    type: viseme
+  - id: AA_AH
+    start: 1.045
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.144
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.287
+    type: viseme
+  - id: EY
+    start: 1.327
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.456
+    type: viseme
+  - id: M_B_P
+    start: 1.496
+    type: viseme
+  - id: AA_AH
+    start: 1.575
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.615
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.665
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.7
+    type: viseme
+  - id: CH_SH_ZH
+    start: 1.74
+    type: viseme
+  - id: AA_AH
+    start: 1.86
+    type: viseme
+  - id: R_ER
+    start: 1.957
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.006
+    type: viseme
+  - id: AA_AH
+    start: 2.047
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.078
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.119
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.156
+    type: viseme
+  - id: AO_AW
+    start: 2.255
+    type: viseme
+  - id: EY
+    start: 2.351
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.517
+    type: viseme
+  - id: IDLE
+    start: 2.57
+    type: viseme
+  file: /home/michellebecerra/kinetic_ws/sandbox/cordial-public/cordial_example/speech/data/statement4.wav
+  text: '"I recommend  you keep my statements short and sweet."'
+statement5:
+  behaviors:
+  - args: []
+    id: yay
+    start: 0.912
+    type: action
+  - id: EY
+    start: 0.047
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.133
+    type: viseme
+  - id: M_B_P
+    start: 0.166
+    type: viseme
+  - id: EY
+    start: 0.233
+    type: viseme
+  - id: AA_AH
+    start: 0.314
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.373
+    type: viseme
+  - id: EY
+    start: 0.447
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.498
+    type: viseme
+  - id: EY
+    start: 0.536
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.68
+    type: viseme
+  - id: EY
+    start: 0.751
+    type: viseme
+  - id: EH_AE_AY
+    start: 0.818
+    type: viseme
+  - id: M_B_P
+    start: 0.902
+    type: viseme
+  - id: AA_AH
+    start: 0.999
+    type: viseme
+  - id: R_ER
+    start: 1.03
+    type: viseme
+  - id: EH_AE_AY
+    start: 1.094
+    type: viseme
+  - id: M_B_P
+    start: 1.178
+    type: viseme
+  - id: R_ER
+    start: 1.241
+    type: viseme
+  - id: EY
+    start: 1.285
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.325
+    type: viseme
+  - id: EY
+    start: 1.387
+    type: viseme
+  - id: AA_AH
+    start: 1.43
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.526
+    type: viseme
+  - id: AO_AW
+    start: 1.565
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.603
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.711
+    type: viseme
+  - id: EY
+    start: 1.751
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.892
+    type: viseme
+  - id: EY
+    start: 2.021
+    type: viseme
+  - id: AA_AH
+    start: 2.082
+    type: viseme
+  - id: AA_AH
+    start: 2.177
+    type: viseme
+  - id: R_ER
+    start: 2.255
+    type: viseme
+  - id: AA_AH
+    start: 2.289
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.316
+    type: viseme
+  - id: AA_AH
+    start: 2.38
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.555
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.746
+    type: viseme
+  - id: IDLE
+    start: 2.84
+    type: viseme
+  file: /home/michellebecerra/kinetic_ws/sandbox/cordial-public/cordial_example/speech/data/statement5.wav
+  text: '"It makes it easier for everything to stay synchronized."'
