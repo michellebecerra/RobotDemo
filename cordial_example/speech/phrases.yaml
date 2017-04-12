@@ -4,584 +4,1375 @@
 statement1:
   behaviors:
   - args: []
-    id: mischievous
-    start: 0.953
-    type: action
-  - id: AA_AH
-    start: 0.047
-    type: viseme
-  - id: AA_AH
-    start: 0.18
-    type: viseme
-  - id: IDLE
-    start: 0.55
-    type: viseme
-  - id: AO_AW
-    start: 0.943
-    type: viseme
-  - id: EH_AE_AY
-    start: 1.053
-    type: viseme
-  - id: N_NG_D_Z
-    start: 1.081
-    type: viseme
-  - id: AA_AH
-    start: 1.13
-    type: viseme
-  - id: AA_AH
-    start: 1.192
-    type: viseme
-  - id: M_B_P
-    start: 1.232
-    type: viseme
-  - id: N_NG_D_Z
-    start: 1.298
-    type: viseme
-  - id: AO_AW
-    start: 1.341
-    type: viseme
-  - id: AA_AH
-    start: 1.405
-    type: viseme
-  - id: AA_AH
-    start: 1.492
-    type: viseme
-  - id: R_ER
-    start: 1.595
-    type: viseme
-  - id: CH_SH_ZH
-    start: 1.672
-    type: viseme
-  - id: AA_AH
-    start: 1.749
-    type: viseme
-  - id: N_NG_D_Z
-    start: 1.811
-    type: viseme
-  - id: IDLE
-    start: 2.024
-    type: viseme
-  - id: N_NG_D_Z
-    start: 2.218
-    type: viseme
-  - id: AA_AH
-    start: 2.264
-    type: viseme
-  - id: M_B_P
-    start: 2.292
-    type: viseme
-  - id: AO_AW
-    start: 2.394
-    type: viseme
-  - id: N_NG_D_Z
-    start: 2.502
-    type: viseme
-  - id: N_NG_D_Z
-    start: 2.574
-    type: viseme
-  - id: AA_AH
-    start: 2.621
-    type: viseme
-  - id: AA_AH
-    start: 2.728
-    type: viseme
-  - id: R_ER
-    start: 2.819
-    type: viseme
-  - id: CH_SH_ZH
-    start: 2.883
-    type: viseme
-  - id: AA_AH
-    start: 2.951
-    type: viseme
-  - id: N_NG_D_Z
-    start: 2.997
-    type: viseme
-  - id: R_ER
-    start: 3.089
-    type: viseme
-  - id: AO_AW
-    start: 3.192
-    type: viseme
-  - id: M_B_P
-    start: 3.31
-    type: viseme
-  - id: AA_AH
-    start: 3.364
-    type: viseme
-  - id: N_NG_D_Z
-    start: 3.482
-    type: viseme
-  - id: AA_AH
-    start: 3.546
-    type: viseme
-  - id: AA_AH
-    start: 3.633
-    type: viseme
-  - id: N_NG_D_Z
-    start: 3.67
-    type: viseme
-  - id: N_NG_D_Z
-    start: 3.712
-    type: viseme
-  - id: R_ER
-    start: 3.806
-    type: viseme
-  - id: AO_AW
-    start: 3.858
-    type: viseme
-  - id: N_NG_D_Z
-    start: 3.941
-    type: viseme
-  - id: EH_AE_AY
-    start: 4.046
-    type: viseme
-  - id: IDLE
-    start: 4.251
-    type: viseme
-  file: /home/michellebecerra/kinetic_ws/sandbox/cordial-public/cordial_example/speech/data/statement1.wav
-  text: '"Hi! Welcome to cordial, the most cordial robot controller!"'
-statement2:
-  behaviors:
-  - args: []
     id: yay
-    start: 0.45
+    start: 1.108
+    type: action
+  - args: []
+    id: tilt-left
+    start: 2.3939999999999997
     type: action
   - id: AA_AH
     start: 0.047
     type: viseme
-  - id: N_NG_D_Z
-    start: 0.144
+  - id: AA_AH
+    start: 0.087
     type: viseme
   - id: N_NG_D_Z
-    start: 0.246
+    start: 0.114
     type: viseme
   - id: AO_AW
-    start: 0.331
+    start: 0.252
     type: viseme
-  - id: M_B_P
-    start: 0.44
-    type: viseme
-  - id: EY
-    start: 0.502
-    type: viseme
-  - id: AA_AH
-    start: 0.545
-    type: viseme
-  - id: EY
-    start: 0.695
-    type: viseme
-  - id: M_B_P
-    start: 0.806
-    type: viseme
-  - id: EY
-    start: 0.845
+  - id: N_NG_D_Z
+    start: 0.352
     type: viseme
   - id: EH_AE_AY
-    start: 0.925
-    type: viseme
-  - id: N_NG_D_Z
-    start: 1.001
-    type: viseme
-  - id: N_NG_D_Z
-    start: 1.132
-    type: viseme
-  - id: AA_AH
-    start: 1.232
-    type: viseme
-  - id: AA_AH
-    start: 1.379
-    type: viseme
-  - id: N_NG_D_Z
-    start: 1.452
-    type: viseme
-  - id: EY
-    start: 1.496
-    type: viseme
-  - id: N_NG_D_Z
-    start: 1.527
-    type: viseme
-  - id: N_NG_D_Z
-    start: 1.599
-    type: viseme
-  - id: AA_AH
-    start: 1.625
-    type: viseme
-  - id: N_NG_D_Z
-    start: 1.656
-    type: viseme
-  - id: AA_AH
-    start: 1.755
+    start: 0.4
     type: viseme
   - id: R_ER
-    start: 1.88
-    type: viseme
-  - id: EY
-    start: 1.974
-    type: viseme
-  - id: M_B_P
-    start: 2.073
-    type: viseme
-  - id: N_NG_D_Z
-    start: 2.142
+    start: 0.571
     type: viseme
   - id: IDLE
-    start: 2.322
-    type: viseme
-  file: /home/michellebecerra/kinetic_ws/sandbox/cordial-public/cordial_example/speech/data/statement2.wav
-  text: '"I''ll do  behaviors tagged in the script!"'
-statement3:
-  behaviors:
-  - args: []
-    id: lift-drop
-    start: 0.307
-    type: action
-  - id: N_NG_D_Z
-    start: 0.047
-    type: viseme
-  - id: EY
-    start: 0.08
-    type: viseme
-  - id: N_NG_D_Z
-    start: 0.195
+    start: 0.705
     type: viseme
   - id: M_B_P
-    start: 0.297
-    type: viseme
-  - id: EH_AE_AY
-    start: 0.377
-    type: viseme
-  - id: N_NG_D_Z
-    start: 0.508
-    type: viseme
-  - id: N_NG_D_Z
-    start: 0.578
-    type: viseme
-  - id: M_B_P
-    start: 0.618
-    type: viseme
-  - id: EY
-    start: 0.678
-    type: viseme
-  - id: AO_AW
-    start: 0.838
-    type: viseme
-  - id: N_NG_D_Z
-    start: 0.892
-    type: viseme
-  - id: EH_AE_AY
-    start: 1.006
-    type: viseme
-  - id: N_NG_D_Z
-    start: 1.045
-    type: viseme
-  - id: N_NG_D_Z
-    start: 1.097
-    type: viseme
-  - id: N_NG_D_Z
-    start: 1.165
-    type: viseme
-  - id: N_NG_D_Z
-    start: 1.261
+    start: 1.098
     type: viseme
   - id: AA_AH
-    start: 1.343
+    start: 1.19
     type: viseme
   - id: N_NG_D_Z
-    start: 1.392
-    type: viseme
-  - id: AO_AW
-    start: 1.462
-    type: viseme
-  - id: EH_AE_AY
-    start: 1.51
-    type: viseme
-  - id: M_B_P
-    start: 1.562
-    type: viseme
-  - id: R_ER
-    start: 1.715
+    start: 1.279
     type: viseme
   - id: EY
-    start: 1.772
+    start: 1.32
+    type: viseme
+  - id: M_B_P
+    start: 1.41
+    type: viseme
+  - id: EY
+    start: 1.472
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.508
     type: viseme
   - id: CH_SH_ZH
-    start: 1.88
+    start: 1.584
     type: viseme
-  - id: EH_AE_AY
-    start: 1.993
+  - id: EY
+    start: 1.746
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.795
+    type: viseme
+  - id: EY
+    start: 1.883
+    type: viseme
+  - id: AA_AH
+    start: 1.973
     type: viseme
   - id: N_NG_D_Z
     start: 2.03
     type: viseme
-  - id: EH_AE_AY
-    start: 2.072
+  - id: N_NG_D_Z
+    start: 2.068
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.101
     type: viseme
   - id: EY
-    start: 2.189
+    start: 2.13
     type: viseme
   - id: N_NG_D_Z
-    start: 2.282
+    start: 2.159
+    type: viseme
+  - id: EY
+    start: 2.261
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.303
+    type: viseme
+  - id: M_B_P
+    start: 2.384
     type: viseme
   - id: AA_AH
-    start: 2.324
+    start: 2.479
     type: viseme
   - id: N_NG_D_Z
-    start: 2.425
+    start: 2.587
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.637
+    type: viseme
+  - id: EY
+    start: 2.682
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.728
     type: viseme
   - id: IDLE
-    start: 2.582
+    start: 2.835
     type: viseme
-  file: /home/michellebecerra/kinetic_ws/sandbox/cordial-public/cordial_example/speech/data/statement3.wav
-  text: '"These first few sentences were pre-generated."'
-statement4:
+  file: /home/michellebecerra/kinetic_ws/sandbox/cordial-public/cordial_example/speech/data/statement1.wav
+  text: '"Hello there!  My name is Chili and this is  Bandit!"'
+statement10:
   behaviors:
-  - args:
-    - '30'
-    - '0'
-    - '0'
-    id: headpose
-    start: 0.666
+  - args: []
+    id: hooray
+    start: 1.856
     type: action
-  - args:
-    - '0'
-    - '0'
-    - '0'
-    id: headpose
-    start: 2.5799999999999996
-    type: action
+  - id: N_NG_D_Z
+    start: 0.047
+    type: viseme
+  - id: AA_AH
+    start: 0.1
+    type: viseme
+  - id: AA_AH
+    start: 0.169
+    type: viseme
+  - id: AA_AH
+    start: 0.24
+    type: viseme
+  - id: EY
+    start: 0.304
+    type: viseme
+  - id: AO_AW
+    start: 0.363
+    type: viseme
+  - id: M_B_P
+    start: 0.4
+    type: viseme
+  - id: AA_AH
+    start: 0.45
+    type: viseme
+  - id: R_ER
+    start: 0.484
+    type: viseme
+  - id: M_B_P
+    start: 0.518
+    type: viseme
+  - id: EY
+    start: 0.617
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.641
+    type: viseme
+  - id: EY
+    start: 0.735
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.797
+    type: viseme
+  - id: EY
+    start: 0.826
+    type: viseme
+  - id: AA_AH
+    start: 0.856
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.934
+    type: viseme
+  - id: AA_AH
+    start: 0.966
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.0
+    type: viseme
+  - id: AA_AH
+    start: 1.109
+    type: viseme
+  - id: M_B_P
+    start: 1.234
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.297
+    type: viseme
+  - id: AA_AH
+    start: 1.411
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.446
+    type: viseme
+  - id: EY
+    start: 1.488
+    type: viseme
+  - id: IDLE
+    start: 1.846
+    type: viseme
+  file: /home/michellebecerra/kinetic_ws/sandbox/cordial-public/cordial_example/speech/data/statement10.wav
+  text: '"Thank you for visiting the lab today! "'
+statement2:
+  behaviors:
+  - id: N_NG_D_Z
+    start: 0.047
+    type: viseme
+  - id: EY
+    start: 0.1
+    type: viseme
+  - id: EY
+    start: 0.242
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.285
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.325
+    type: viseme
+  - id: EH_AE_AY
+    start: 0.356
+    type: viseme
+  - id: AA_AH
+    start: 0.476
+    type: viseme
+  - id: AA_AH
+    start: 0.607
+    type: viseme
+  - id: CH_SH_ZH
+    start: 0.662
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.767
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.828
+    type: viseme
+  - id: AA_AH
+    start: 0.914
+    type: viseme
+  - id: M_B_P
+    start: 1.038
+    type: viseme
+  - id: M_B_P
+    start: 1.106
+    type: viseme
+  - id: AO_AW
+    start: 1.226
+    type: viseme
+  - id: AA_AH
+    start: 1.31
+    type: viseme
+  - id: AA_AH
+    start: 1.409
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.449
+    type: viseme
+  - id: AA_AH
+    start: 1.543
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.576
+    type: viseme
+  - id: AA_AH
+    start: 1.655
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.741
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.784
+    type: viseme
+  - id: AA_AH
+    start: 1.853
+    type: viseme
+  - id: M_B_P
+    start: 1.897
+    type: viseme
+  - id: EH_AE_AY
+    start: 1.973
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.034
+    type: viseme
+  - id: AA_AH
+    start: 2.141
+    type: viseme
+  - id: M_B_P
+    start: 2.185
+    type: viseme
+  - id: EY
+    start: 2.234
+    type: viseme
+  - id: AA_AH
+    start: 2.276
+    type: viseme
+  - id: AA_AH
+    start: 2.355
+    type: viseme
+  - id: AA_AH
+    start: 2.488
+    type: viseme
+  - id: M_B_P
+    start: 2.574
+    type: viseme
+  - id: M_B_P
+    start: 2.607
+    type: viseme
+  - id: EY
+    start: 2.657
+    type: viseme
+  - id: AA_AH
+    start: 2.693
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.726
+    type: viseme
+  - id: EY
+    start: 2.817
+    type: viseme
+  - id: CH_SH_ZH
+    start: 2.917
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.035
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.099
+    type: viseme
+  - id: M_B_P
+    start: 3.189
+    type: viseme
+  - id: R_ER
+    start: 3.305
+    type: viseme
+  - id: EY
+    start: 3.365
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.398
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.446
+    type: viseme
+  - id: EY
+    start: 3.51
+    type: viseme
+  - id: M_B_P
+    start: 3.543
+    type: viseme
+  - id: AA_AH
+    start: 3.593
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.636
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.786
+    type: viseme
+  - id: IDLE
+    start: 3.919
+    type: viseme
+  file: /home/michellebecerra/kinetic_ws/sandbox/cordial-public/cordial_example/speech/data/statement2.wav
+  text: '"The Interaction Lab focuses on developing computational principles"'
+statement3:
+  behaviors:
   - id: AA_AH
     start: 0.047
     type: viseme
-  - id: R_ER
-    start: 0.165
-    type: viseme
-  - id: EH_AE_AY
-    start: 0.232
-    type: viseme
-  - id: AA_AH
-    start: 0.323
-    type: viseme
-  - id: AA_AH
-    start: 0.389
-    type: viseme
-  - id: M_B_P
-    start: 0.428
-    type: viseme
-  - id: EH_AE_AY
-    start: 0.513
+  - id: N_NG_D_Z
+    start: 0.095
     type: viseme
   - id: N_NG_D_Z
-    start: 0.573
+    start: 0.131
     type: viseme
   - id: N_NG_D_Z
-    start: 0.615
+    start: 0.182
+    type: viseme
+  - id: EH_AE_AY
+    start: 0.271
+    type: viseme
+  - id: AA_AH
+    start: 0.34
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.416
     type: viseme
   - id: EY
-    start: 0.656
+    start: 0.49
+    type: viseme
+  - id: AA_AH
+    start: 0.611
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.687
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.768
     type: viseme
   - id: AO_AW
-    start: 0.709
-    type: viseme
-  - id: AA_AH
-    start: 0.756
+    start: 0.821
     type: viseme
   - id: EY
+    start: 0.884
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.928
+    type: viseme
+  - id: EY
+    start: 1.004
+    type: viseme
+  - id: M_B_P
+    start: 1.107
+    type: viseme
+  - id: AA_AH
+    start: 1.165
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.193
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.241
+    type: viseme
+  - id: AO_AW
+    start: 1.362
+    type: viseme
+  - id: CH_SH_ZH
+    start: 1.447
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.563
+    type: viseme
+  - id: IDLE
+    start: 1.791
+    type: viseme
+  - id: AA_AH
+    start: 1.985
+    type: viseme
+  - id: EY
+    start: 2.105
+    type: viseme
+  - id: AO_AW
+    start: 2.155
+    type: viseme
+  - id: M_B_P
+    start: 2.22
+    type: viseme
+  - id: AA_AH
+    start: 2.295
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.321
+    type: viseme
+  - id: R_ER
+    start: 2.405
+    type: viseme
+  - id: AO_AW
+    start: 2.473
+    type: viseme
+  - id: M_B_P
+    start: 2.585
+    type: viseme
+  - id: AA_AH
+    start: 2.658
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.819
+    type: viseme
+  - id: EY
+    start: 2.873
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.913
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.972
+    type: viseme
+  - id: EH_AE_AY
+    start: 3.002
+    type: viseme
+  - id: AA_AH
+    start: 3.097
+    type: viseme
+  - id: AA_AH
+    start: 3.221
+    type: viseme
+  - id: CH_SH_ZH
+    start: 3.28
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.38
+    type: viseme
+  - id: IDLE
+    start: 3.594
+    type: viseme
+  file: /home/michellebecerra/kinetic_ws/sandbox/cordial-public/cordial_example/speech/data/statement3.wav
+  text: '"and techniques to enable social, human-robot interaction."'
+statement4:
+  behaviors:
+  - args: []
+    id: forward
+    start: 0.057
+    type: action
+  - id: M_B_P
+    start: 0.047
+    type: viseme
+  - id: R_ER
+    start: 0.1
+    type: viseme
+  - id: AA_AH
+    start: 0.135
+    type: viseme
+  - id: M_B_P
+    start: 0.167
+    type: viseme
+  - id: EH_AE_AY
+    start: 0.258
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.356
+    type: viseme
+  - id: EH_AE_AY
+    start: 0.466
+    type: viseme
+  - id: M_B_P
+    start: 0.515
+    type: viseme
+  - id: AA_AH
+    start: 0.599
+    type: viseme
+  - id: CH_SH_ZH
+    start: 0.749
+    type: viseme
+  - id: AA_AH
     start: 0.831
     type: viseme
   - id: M_B_P
-    start: 0.912
-    type: viseme
-  - id: M_B_P
-    start: 0.954
+    start: 0.872
     type: viseme
   - id: AA_AH
-    start: 1.045
+    start: 0.951
     type: viseme
   - id: N_NG_D_Z
-    start: 1.144
-    type: viseme
-  - id: N_NG_D_Z
-    start: 1.287
-    type: viseme
-  - id: EY
-    start: 1.327
-    type: viseme
-  - id: N_NG_D_Z
-    start: 1.456
-    type: viseme
-  - id: M_B_P
-    start: 1.496
+    start: 0.991
     type: viseme
   - id: AA_AH
-    start: 1.575
-    type: viseme
-  - id: N_NG_D_Z
-    start: 1.615
-    type: viseme
-  - id: N_NG_D_Z
-    start: 1.665
-    type: viseme
-  - id: N_NG_D_Z
-    start: 1.7
-    type: viseme
-  - id: CH_SH_ZH
-    start: 1.74
-    type: viseme
-  - id: AA_AH
-    start: 1.86
+    start: 1.13
     type: viseme
   - id: R_ER
-    start: 1.957
-    type: viseme
-  - id: N_NG_D_Z
-    start: 2.006
-    type: viseme
-  - id: AA_AH
-    start: 2.047
-    type: viseme
-  - id: N_NG_D_Z
-    start: 2.078
-    type: viseme
-  - id: N_NG_D_Z
-    start: 2.119
-    type: viseme
-  - id: N_NG_D_Z
-    start: 2.156
-    type: viseme
-  - id: AO_AW
-    start: 2.255
+    start: 1.28
     type: viseme
   - id: EY
-    start: 2.351
+    start: 1.419
+    type: viseme
+  - id: AA_AH
+    start: 1.46
+    type: viseme
+  - id: AA_AH
+    start: 1.551
     type: viseme
   - id: N_NG_D_Z
-    start: 2.517
+    start: 1.587
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.621
+    type: viseme
+  - id: AA_AH
+    start: 1.662
+    type: viseme
+  - id: EH_AE_AY
+    start: 1.711
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.805
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.926
+    type: viseme
+  - id: AO_AW
+    start: 1.967
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.039
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.083
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.165
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.206
+    type: viseme
+  - id: AA_AH
+    start: 2.272
+    type: viseme
+  - id: AA_AH
+    start: 2.392
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.526
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.566
+    type: viseme
+  - id: EH_AE_AY
+    start: 2.61
+    type: viseme
+  - id: AA_AH
+    start: 2.762
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.829
+    type: viseme
+  - id: R_ER
+    start: 2.889
+    type: viseme
+  - id: EY
+    start: 2.954
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.046
+    type: viseme
+  - id: EH_AE_AY
+    start: 3.15
+    type: viseme
+  - id: CH_SH_ZH
+    start: 3.219
+    type: viseme
+  - id: EY
+    start: 3.35
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.384
+    type: viseme
+  - id: AA_AH
+    start: 3.459
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.544
     type: viseme
   - id: IDLE
-    start: 2.57
+    start: 3.622
     type: viseme
   file: /home/michellebecerra/kinetic_ws/sandbox/cordial-public/cordial_example/speech/data/statement4.wav
-  text: '"I recommend  you keep my statements short and sweet."'
+  text: !!python/str "\" Professor Maja Matari\u0107 and her students conduct research\
+    \ in an\""
 statement5:
   behaviors:
-  - args: []
-    id: yay
-    start: 0.912
-    type: action
   - id: EY
     start: 0.047
     type: viseme
   - id: N_NG_D_Z
-    start: 0.133
-    type: viseme
-  - id: M_B_P
-    start: 0.166
-    type: viseme
-  - id: EY
-    start: 0.233
-    type: viseme
-  - id: AA_AH
-    start: 0.314
+    start: 0.09
     type: viseme
   - id: N_NG_D_Z
-    start: 0.373
-    type: viseme
-  - id: EY
-    start: 0.447
-    type: viseme
-  - id: N_NG_D_Z
-    start: 0.498
-    type: viseme
-  - id: EY
-    start: 0.536
-    type: viseme
-  - id: N_NG_D_Z
-    start: 0.68
-    type: viseme
-  - id: EY
-    start: 0.751
+    start: 0.15
     type: viseme
   - id: EH_AE_AY
-    start: 0.818
-    type: viseme
-  - id: M_B_P
-    start: 0.902
-    type: viseme
-  - id: AA_AH
-    start: 0.999
-    type: viseme
-  - id: R_ER
-    start: 1.03
-    type: viseme
-  - id: EH_AE_AY
-    start: 1.094
-    type: viseme
-  - id: M_B_P
-    start: 1.178
-    type: viseme
-  - id: R_ER
-    start: 1.241
-    type: viseme
-  - id: EY
-    start: 1.285
+    start: 0.215
     type: viseme
   - id: N_NG_D_Z
-    start: 1.325
+    start: 0.277
     type: viseme
   - id: EY
-    start: 1.387
+    start: 0.311
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.364
     type: viseme
   - id: AA_AH
+    start: 0.45
+    type: viseme
+  - id: M_B_P
+    start: 0.489
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.547
+    type: viseme
+  - id: EY
+    start: 0.638
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.67
+    type: viseme
+  - id: EH_AE_AY
+    start: 0.718
+    type: viseme
+  - id: R_ER
+    start: 0.81
+    type: viseme
+  - id: EY
+    start: 0.895
+    type: viseme
+  - id: EH_AE_AY
+    start: 0.953
+    type: viseme
+  - id: EY
+    start: 1.075
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.17
+    type: viseme
+  - id: AA_AH
+    start: 1.238
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.328
+    type: viseme
+  - id: AA_AH
+    start: 1.381
+    type: viseme
+  - id: N_NG_D_Z
     start: 1.43
     type: viseme
-  - id: N_NG_D_Z
-    start: 1.526
+  - id: AA_AH
+    start: 1.472
     type: viseme
-  - id: AO_AW
-    start: 1.565
-    type: viseme
-  - id: N_NG_D_Z
-    start: 1.603
+  - id: M_B_P
+    start: 1.513
     type: viseme
   - id: N_NG_D_Z
+    start: 1.621
+    type: viseme
+  - id: AA_AH
     start: 1.711
     type: viseme
+  - id: N_NG_D_Z
+    start: 1.897
+    type: viseme
+  - id: AA_AH
+    start: 2.0
+    type: viseme
+  - id: AA_AH
+    start: 2.12
+    type: viseme
+  - id: M_B_P
+    start: 2.151
+    type: viseme
+  - id: M_B_P
+    start: 2.202
+    type: viseme
   - id: EY
-    start: 1.751
+    start: 2.283
+    type: viseme
+  - id: AO_AW
+    start: 2.35
     type: viseme
   - id: N_NG_D_Z
-    start: 1.892
+    start: 2.419
+    type: viseme
+  - id: EH_AE_AY
+    start: 2.47
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.534
+    type: viseme
+  - id: AA_AH
+    start: 2.641
+    type: viseme
+  - id: AA_AH
+    start: 2.826
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.874
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.919
+    type: viseme
+  - id: AA_AH
+    start: 2.996
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.049
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.093
+    type: viseme
+  - id: EH_AE_AY
+    start: 3.133
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.186
+    type: viseme
+  - id: CH_SH_ZH
+    start: 3.23
     type: viseme
   - id: EY
-    start: 2.021
+    start: 3.314
     type: viseme
-  - id: AA_AH
-    start: 2.082
+  - id: N_NG_D_Z
+    start: 3.349
     type: viseme
-  - id: AA_AH
-    start: 2.177
+  - id: EY
+    start: 3.398
     type: viseme
   - id: R_ER
-    start: 2.255
+    start: 3.471
+    type: viseme
+  - id: EY
+    start: 3.538
     type: viseme
   - id: AA_AH
-    start: 2.289
+    start: 3.592
     type: viseme
   - id: N_NG_D_Z
-    start: 2.316
+    start: 3.664
     type: viseme
-  - id: AA_AH
-    start: 2.38
-    type: viseme
-  - id: N_NG_D_Z
-    start: 2.555
-    type: viseme
-  - id: N_NG_D_Z
-    start: 2.746
+  - id: AO_AW
+    start: 3.75
     type: viseme
   - id: IDLE
-    start: 2.84
+    start: 4.052
     type: viseme
   file: /home/michellebecerra/kinetic_ws/sandbox/cordial-public/cordial_example/speech/data/statement5.wav
-  text: '"It makes it easier for everything to stay synchronized."'
+  text: '"interdisciplinary arena that applies computer science and engineering to"'
+statement6:
+  behaviors:
+  - id: AA_AH
+    start: 0.047
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.104
+    type: viseme
+  - id: EY
+    start: 0.238
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.29
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.397
+    type: viseme
+  - id: EY
+    start: 0.456
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.483
+    type: viseme
+  - id: M_B_P
+    start: 0.537
+    type: viseme
+  - id: EY
+    start: 0.622
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.675
+    type: viseme
+  - id: AA_AH
+    start: 0.712
+    type: viseme
+  - id: AA_AH
+    start: 0.753
+    type: viseme
+  - id: EY
+    start: 0.865
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.927
+    type: viseme
+  - id: EY
+    start: 0.964
+    type: viseme
+  - id: AA_AH
+    start: 1.006
+    type: viseme
+  - id: AA_AH
+    start: 1.072
+    type: viseme
+  - id: R_ER
+    start: 1.219
+    type: viseme
+  - id: EY
+    start: 1.282
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.32
+    type: viseme
+  - id: EY
+    start: 1.349
+    type: viseme
+  - id: AA_AH
+    start: 1.404
+    type: viseme
+  - id: AA_AH
+    start: 1.463
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.516
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.597
+    type: viseme
+  - id: AA_AH
+    start: 1.714
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.744
+    type: viseme
+  - id: AA_AH
+    start: 1.849
+    type: viseme
+  - id: AA_AH
+    start: 2.023
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.071
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.109
+    type: viseme
+  - id: M_B_P
+    start: 2.172
+    type: viseme
+  - id: R_ER
+    start: 2.279
+    type: viseme
+  - id: AA_AH
+    start: 2.325
+    type: viseme
+  - id: M_B_P
+    start: 2.435
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.482
+    type: viseme
+  - id: AA_AH
+    start: 2.587
+    type: viseme
+  - id: M_B_P
+    start: 2.614
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.72
+    type: viseme
+  - id: IDLE
+    start: 2.874
+    type: viseme
+  file: /home/michellebecerra/kinetic_ws/sandbox/cordial-public/cordial_example/speech/data/statement6.wav
+  text: '"assist in  mitigating critical societal problems."'
+statement7:
+  behaviors:
+  - args: []
+    id: backward
+    start: 0.057
+    type: action
+  - id: M_B_P
+    start: 0.047
+    type: viseme
+  - id: AA_AH
+    start: 0.111
+    type: viseme
+  - id: R_ER
+    start: 0.235
+    type: viseme
+  - id: R_ER
+    start: 0.298
+    type: viseme
+  - id: EY
+    start: 0.407
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.475
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.588
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.646
+    type: viseme
+  - id: AO_AW
+    start: 0.691
+    type: viseme
+  - id: EH_AE_AY
+    start: 0.805
+    type: viseme
+  - id: AA_AH
+    start: 0.914
+    type: viseme
+  - id: EY
+    start: 0.981
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.023
+    type: viseme
+  - id: M_B_P
+    start: 1.077
+    type: viseme
+  - id: EH_AE_AY
+    start: 1.134
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.215
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.33
+    type: viseme
+  - id: EY
+    start: 1.383
+    type: viseme
+  - id: AA_AH
+    start: 1.413
+    type: viseme
+  - id: EY
+    start: 1.488
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.537
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.594
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.672
+    type: viseme
+  - id: EY
+    start: 1.725
+    type: viseme
+  - id: EY
+    start: 1.865
+    type: viseme
+  - id: M_B_P
+    start: 1.914
+    type: viseme
+  - id: M_B_P
+    start: 1.955
+    type: viseme
+  - id: AA_AH
+    start: 2.026
+    type: viseme
+  - id: AA_AH
+    start: 2.17
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.274
+    type: viseme
+  - id: AA_AH
+    start: 2.315
+    type: viseme
+  - id: M_B_P
+    start: 2.358
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.429
+    type: viseme
+  - id: AA_AH
+    start: 2.502
+    type: viseme
+  - id: AA_AH
+    start: 2.653
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.72
+    type: viseme
+  - id: EH_AE_AY
+    start: 2.779
+    type: viseme
+  - id: M_B_P
+    start: 2.867
+    type: viseme
+  - id: AA_AH
+    start: 2.943
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.224
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.272
+    type: viseme
+  - id: IDLE
+    start: 3.373
+    type: viseme
+  file: /home/michellebecerra/kinetic_ws/sandbox/cordial-public/cordial_example/speech/data/statement7.wav
+  text: '" More recent work investigates the impact of long-term and"'
+statement8:
+  behaviors:
+  - id: M_B_P
+    start: 0.047
+    type: viseme
+  - id: EH_AE_AY
+    start: 0.14
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.262
+    type: viseme
+  - id: AA_AH
+    start: 0.367
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.4
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.457
+    type: viseme
+  - id: AA_AH
+    start: 0.571
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.681
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.71
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.742
+    type: viseme
+  - id: AO_AW
+    start: 0.834
+    type: viseme
+  - id: CH_SH_ZH
+    start: 0.919
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.018
+    type: viseme
+  - id: EY
+    start: 1.153
+    type: viseme
+  - id: AA_AH
+    start: 1.254
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.28
+    type: viseme
+  - id: EY
+    start: 1.405
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.439
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.537
+    type: viseme
+  - id: EY
+    start: 1.591
+    type: viseme
+  - id: M_B_P
+    start: 1.664
+    type: viseme
+  - id: R_ER
+    start: 1.695
+    type: viseme
+  - id: AO_AW
+    start: 1.776
+    type: viseme
+  - id: M_B_P
+    start: 1.859
+    type: viseme
+  - id: AA_AH
+    start: 1.923
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.065
+    type: viseme
+  - id: EY
+    start: 2.097
+    type: viseme
+  - id: AA_AH
+    start: 2.186
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.327
+    type: viseme
+  - id: IDLE
+    start: 2.494
+    type: viseme
+  - id: EH_AE_AY
+    start: 2.688
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.812
+    type: viseme
+  - id: EY
+    start: 2.955
+    type: viseme
+  - id: AA_AH
+    start: 3.131
+    type: viseme
+  - id: R_ER
+    start: 3.306
+    type: viseme
+  - id: IDLE
+    start: 3.557
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.751
+    type: viseme
+  - id: AO_AW
+    start: 3.831
+    type: viseme
+  - id: EY
+    start: 3.881
+    type: viseme
+  - id: AA_AH
+    start: 3.927
+    type: viseme
+  - id: AA_AH
+    start: 3.993
+    type: viseme
+  - id: R_ER
+    start: 4.128
+    type: viseme
+  - id: EY
+    start: 4.175
+    type: viseme
+  - id: N_NG_D_Z
+    start: 4.233
+    type: viseme
+  - id: AA_AH
+    start: 4.323
+    type: viseme
+  - id: AO_AW
+    start: 4.436
+    type: viseme
+  - id: AA_AH
+    start: 4.499
+    type: viseme
+  - id: N_NG_D_Z
+    start: 4.59
+    type: viseme
+  - id: AA_AH
+    start: 4.719
+    type: viseme
+  - id: N_NG_D_Z
+    start: 4.76
+    type: viseme
+  - id: EY
+    start: 4.791
+    type: viseme
+  - id: AA_AH
+    start: 4.868
+    type: viseme
+  - id: M_B_P
+    start: 4.901
+    type: viseme
+  - id: N_NG_D_Z
+    start: 4.958
+    type: viseme
+  - id: AA_AH
+    start: 5.092
+    type: viseme
+  - id: M_B_P
+    start: 5.209
+    type: viseme
+  - id: IDLE
+    start: 5.396
+    type: viseme
+  file: /home/michellebecerra/kinetic_ws/sandbox/cordial-public/cordial_example/speech/data/statement8.wav
+  text: '"personalized Socially Assistive Robotics (SAR) to increase quality of life,"'
+statement9:
+  behaviors:
+  - id: AA_AH
+    start: 0.047
+    type: viseme
+  - id: EH_AE_AY
+    start: 0.16
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.259
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.427
+    type: viseme
+  - id: IDLE
+    start: 0.541
+    type: viseme
+  - id: AA_AH
+    start: 0.734
+    type: viseme
+  - id: AA_AH
+    start: 0.805
+    type: viseme
+  - id: M_B_P
+    start: 0.843
+    type: viseme
+  - id: EY
+    start: 0.907
+    type: viseme
+  - id: AO_AW
+    start: 0.963
+    type: viseme
+  - id: N_NG_D_Z
+    start: 0.997
+    type: viseme
+  - id: EY
+    start: 1.047
+    type: viseme
+  - id: AA_AH
+    start: 1.089
+    type: viseme
+  - id: EY
+    start: 1.222
+    type: viseme
+  - id: CH_SH_ZH
+    start: 1.318
+    type: viseme
+  - id: N_NG_D_Z
+    start: 1.443
+    type: viseme
+  - id: IDLE
+    start: 1.671
+    type: viseme
+  - id: AA_AH
+    start: 1.865
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.023
+    type: viseme
+  - id: AA_AH
+    start: 2.154
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.271
+    type: viseme
+  - id: AA_AH
+    start: 2.308
+    type: viseme
+  - id: M_B_P
+    start: 2.353
+    type: viseme
+  - id: EY
+    start: 2.407
+    type: viseme
+  - id: IDLE
+    start: 2.653
+    type: viseme
+  - id: AA_AH
+    start: 2.846
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.925
+    type: viseme
+  - id: N_NG_D_Z
+    start: 2.978
+    type: viseme
+  - id: EH_AE_AY
+    start: 3.037
+    type: viseme
+  - id: CH_SH_ZH
+    start: 3.125
+    type: viseme
+  - id: AA_AH
+    start: 3.218
+    type: viseme
+  - id: AA_AH
+    start: 3.251
+    type: viseme
+  - id: EY
+    start: 3.36
+    type: viseme
+  - id: CH_SH_ZH
+    start: 3.445
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.569
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.626
+    type: viseme
+  - id: AA_AH
+    start: 3.72
+    type: viseme
+  - id: AO_AW
+    start: 3.805
+    type: viseme
+  - id: N_NG_D_Z
+    start: 3.925
+    type: viseme
+  - id: N_NG_D_Z
+    start: 4.132
+    type: viseme
+  - id: IDLE
+    start: 4.279
+    type: viseme
+  file: /home/michellebecerra/kinetic_ws/sandbox/cordial-public/cordial_example/speech/data/statement9.wav
+  text: '"health,communication, autonomy, and educational goals."'

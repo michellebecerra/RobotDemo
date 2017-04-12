@@ -1,5 +1,10 @@
-[statement1]Hi! <mischievous>Welcome to cordial, the most cordial robot controller!
-[statement2]I'll do <yay> behaviors tagged in the script!
-[statement3]These <lift-drop>first few sentences were pre-generated.
-[statement4]I recommend<headpose 30 0 0>  you keep my statements short and sweet<headpose 0 0 0>.
-[statement5]It makes it easier<yay> for everything to stay synchronized.
+[statement1]Hello there! <yay> My name is Chili and this is <tilt-left> Bandit! 
+[statement2]The Interaction Lab focuses on developing computational principles 
+[statement3]and techniques to enable social, human-robot interaction.
+[statement4]<forward> Professor Maja Matarić and her students conduct research in an  
+[statement5]interdisciplinary arena that applies computer science and engineering to 
+[statement6]assist in  mitigating critical societal problems.  
+[statement7]<backward> More recent work investigates the impact of long-term and  
+[statement8]personalized Socially Assistive Robotics (SAR) to increase quality of life, 
+[statement9]health,communication, autonomy, and educational goals.
+[statement10]Thank you for visiting the lab today! <hooray>
